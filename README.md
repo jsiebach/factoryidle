@@ -5,8 +5,11 @@ Vue port for factoryidle https://github.com/sevdeutsch/factoryidle
 ## Where to find code
 
 Vue Components: /src/components/
+
 Pinia Stores: /src/stores/
+
 Main App: /src/App.vue
+
 Type references: /src/types.ts
 
 ## Project Setup
